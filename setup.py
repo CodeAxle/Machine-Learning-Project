@@ -6,7 +6,7 @@ PROJECT_NAME="housing-predictor"
 VERSION ="0.0.1"
 AUTHOR="Avnish Yadav"
 DESCRIPTION="This is a first FSDS ML Project"
-PACKAGES=["housing"]
+
 REQUIREMENT_FILE_NAME="requirements.txt"
 
 def get_requirements_list()->List[str]:
